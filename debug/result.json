@@ -1,0 +1,53 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   ",
+        " *   "
+    ],
+    "directory": "---fsie1u1h",
+    "options": {
+        "url": "#/",
+        "index": "index.html",
+        "domain": "#",
+        "origin": "#",
+        "ipaddress": "119.188.246.227",
+        "originURL": "#",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 22 Apr 2021 17:12:45 GMT",
+                "content-type": "text/html",
+                "content-length": "554",
+                "last-modified": "Sun, 21 Mar 2021 14:43:53 GMT",
+                "connection": "close",
+                "etag": "\"60575ba9-22a\"",
+                "accept-ranges": "bytes"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1619111550126,
+        "end": 1619111559125,
+        "spend": 8.999
+    }
+}
